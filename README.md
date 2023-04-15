@@ -7,7 +7,7 @@
 
 ### Você pode me encontrar aqui:
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/GuilFaria)](https://github.com/GuilFaria)      [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/guilhermegabrielpf/)](https://www.linkedin.com/in/guilhermegabrielpf/)                 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&https://twitter.com/GuilPFaria)](https://twitter.com/GuilPFaria)        ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<center>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/GuilFaria)](https://github.com/GuilFaria)      [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/guilhermegabrielpf/)](https://www.linkedin.com/in/guilhermegabrielpf/)                 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&https://twitter.com/GuilPFaria)](https://twitter.com/GuilPFaria)
 
 
 <h3 align="right">Linguagens:</h3>
