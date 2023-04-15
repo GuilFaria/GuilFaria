@@ -5,8 +5,10 @@
 
 <a>Como estudante, estou estudando Big Data para Negócios na Faculdade de Tecnologia (FATEC) do Ipiranga, e, de forma autodidata, Data Science e muitas ferramentas para os processos envolvendo a matéria prima dos Insights (Os dados!). Além disso, sou técnico eletrônico pela Escola Técnica (ETEC) de Pirituba. 📖</a>
 
-<h3>- <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="20"> Aprendendo mais que nunca! </h3>
-<h3>- :pushpin: Objetvo: Me tornar um Data Science em 2023! </h3>
+<h3>- <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="20"> Aprendendo mais que nunca; </h3>
+<h3>- :pushpin: Objetvo: Me tornar um Data Science em 2023; </h3>
+<h3>- ☕ Começando a tomar café; </h3>
+<h3>- 🏞️ Tempos preciosos com a natureza! </h3>
 
 
 ### Você pode me encontrar aqui:
