@@ -12,7 +12,7 @@
 
 
 <a>ㅤ</a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=guilfaria&show_icons=true&locale=en&theme=dark" alt="kterra" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=guilfaria&show_icons=true&locale=en&theme=dark" alt="kterra" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=guilfaria&theme=dark&date_format=j%20M%5B%20Y%5D" alt="kterra" /></p>
 <a>ㅤ</a>
 
