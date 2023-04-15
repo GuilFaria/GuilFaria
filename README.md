@@ -1,5 +1,5 @@
 <h1>Oie 👋, pode me chamar de Gui!</h1>
-<h3 align ="center">Um estudante comum de Data Science :umbrella:.</h3>
+<h3> align ="center">Um estudante comum de Data Science :umbrella:.</h3>
 
 <h2>Como pessoa, sou aquele cara organizador, que se predispõe e persiste para alcançar os objetivos! 👐</h2>
 
