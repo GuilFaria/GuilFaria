@@ -1,4 +1,7 @@
 <h1>Oie 👋, pode me chamar de Gui!</h1>
+<p align="center">
+  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Ciência de dados por aqui.">
+</p>
 <h2 align ="center">Um estudante comum de Data Science :umbrella:.</h2>
 
 <a>Como pessoa, sou aquele cara organizador, que se predispõe e persiste para alcançar os objetivos! 👐</a>
