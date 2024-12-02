@@ -1,9 +1,9 @@
 <h1>Oie 👋, pode me chamar de Gui!</h1>
-<h2 align ="center">Um estudante comum de Data Science :umbrella:.</h2>
+<h2 align ="center">Um estudante comum de Data :umbrella:.</h2>
 
-<a>Como pessoa, sou aquele cara organizador, que se predispõe e persiste para alcançar os objetivos! 👐</a>
+<h2>Como pessoa, sou aquele cara organizador, que se predispõe e persiste para alcançar os objetivos! 👐</h2>
 
-<a>Como estudante, estou estudando Big Data para Negócios na Faculdade de Tecnologia (FATEC) do Ipiranga, e, de forma autodidata, Data Science e muitas ferramentas para os processos envolvendo a matéria prima dos Insights (Os dados!). Além disso, sou técnico eletrônico pela Escola Técnica (ETEC) de Pirituba. 📖</a>
+<h3>Como estudante, estou estudando Big Data para Negócios na Faculdade de Tecnologia (FATEC) do Ipiranga, e, de forma autodidata, Data Science e muitas ferramentas para os processos envolvendo a matéria prima dos Insights (Os dados!). Além disso, sou técnico eletrônico pela Escola Técnica (ETEC) de Pirituba. 📖</h3>
 
 <h3>- <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="20"> Aprendendo mais que nunca; </h3>
 <h3>- :pushpin: Objetvo: Me tornar um Data Science em 2023; </h3>
