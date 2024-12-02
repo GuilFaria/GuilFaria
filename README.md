@@ -1,7 +1,8 @@
 <h1>Oie 👋, pode me chamar de Gui!</h1>
+
 <h2 align ="center">Um estudante comum de Data :umbrella:.</h2>
 
-<h2>Como pessoa, sou aquele cara organizador, que se predispõe e persiste para alcançar os objetivos! 👐</h2>
+<h4>Como pessoa, sou aquele cara organizador, que se predispõe e persiste para alcançar os objetivos! 👐 </h4>h4>
 
 Como estudante, estou estudando Big Data para Negócios na Faculdade de Tecnologia (FATEC) do Ipiranga, e, de forma autodidata, Data Science e muitas ferramentas para os processos envolvendo a matéria prima dos Insights (Os dados!). Além disso, sou técnico eletrônico pela Escola Técnica (ETEC) de Pirituba. 📖
 
