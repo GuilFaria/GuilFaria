@@ -14,13 +14,13 @@ Como estudante, estou estudando Big Data para Negócios na Faculdade de Tecnolog
 
 <a>ㅤ</a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=guilfaria&show_icons=true&locale=en&theme=dark" alt="kterra" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=guilfaria&theme=dark&date_format=j%20M%5B%20Y%5D" alt="kterra" /></p>
-<a>ㅤ</a>
+
 
 
 ### Você pode me encontrar aqui:
 <a>ㅤ</a>
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/GuilFaria)](https://github.com/GuilFaria)      [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/guilhermegabrielpf/)](https://www.linkedin.com/in/guilhermegabrielpf/)                 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&https://twitter.com/GuilPFaria)](https://twitter.com/GuilPFaria)
+
 
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
