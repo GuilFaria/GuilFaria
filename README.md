@@ -7,9 +7,9 @@
 Como estudante, estou estudando Big Data para Negócios na Faculdade de Tecnologia (FATEC) do Ipiranga, e, de forma autodidata, Data Science e muitas ferramentas para os processos envolvendo a matéria prima dos Insights (Os dados!). Além disso, sou técnico eletrônico pela Escola Técnica (ETEC) de Pirituba. 📖
 
 - <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="20"> Aprendendo mais que nunca;
-- :pushpin: Objetvo: Me tornar um Data Science em 2023;
-- ☕ Começando a tomar café; 
-- 🏞️ Tempos preciosos com a natureza! 
+- 👨‍🎓: Me formar em 2025 (Com esperança de saúde mental funcional);
+- 📌: Me desenvolver na área de dados (tanto engenharia, quanto análise e ciência de dados);
+- ☕: Aprender a tomar café. 
 
 
 <a>ㅤ</a>
